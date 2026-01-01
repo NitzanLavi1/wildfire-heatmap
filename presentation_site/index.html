@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autonomous Fire Intelligence | Project Report</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+</head>
+
+<body>
+
+    <!-- HERO -->
+    <header class="hero">
+        <div class="container hero-content">
+            <span class="overline">Project Magnitude</span>
+            <h1>Turning raw signal noise into decisive operational intelligence.</h1>
+            <p>An autonomous data fusion pipeline leveraging Gemini 2.0 to triangulate, assess, and alert on wildfire
+                threats in real-time.</p>
+            <a href="#demonstration" class="btn">View System Demo</a>
+        </div>
+    </header>
+
+    <!-- LIVE DEMONSTRATION -->
+    <section id="demonstration">
+        <div class="container">
+            <h2>System Demonstration</h2>
+            <p>Below is a real-time capture of the engine ingesting disparate signals and populating the Incident
+                Command Board.</p>
+
+            <div class="media-frame">
+                <video autoplay muted loop playsinline controls style="width: 100%; height: 100%; object-fit: cover;">
+                    <source src="website_vid.mp4" type="video/mp4">
+                    <!-- Fallback for other formats if user provides mov -->
+                    <source src="website_vid.mov" type="video/quicktime">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </section>
+
+    <!-- ARCHITECTURE FLOWCHART -->
+    <section id="methodology">
+        <div class="container">
+            <h2>Intelligence Pipeline</h2>
+
+            <div class="flow-diagram">
+                <!-- Sources Layer -->
+                <div class="flow-sources">
+                    <div class="flow-node">
+                        <i class="fas fa-rss"></i>
+                        <h4>Official Feeds</h4>
+                        <p>CAL FIRE, NWS RSS</p>
+                    </div>
+                    <div class="flow-node">
+                        <i class="fab fa-twitter"></i>
+                        <h4>Social Telemetry</h4>
+                        <p>Verified PIO Accounts</p>
+                    </div>
+                    <div class="flow-node">
+                        <i class="fas fa-satellite"></i>
+                        <h4>NASA FIRMS</h4>
+                        <p>Thermal Anomalies</p>
+                    </div>
+                    <div class="flow-node">
+                        <i class="fas fa-user-shield"></i>
+                        <h4>Field Input</h4>
+                        <p>Direct Command Intel</p>
+                    </div>
+                </div>
+
+                <!-- Connector -->
+                <div class="flow-arrow-down"></div>
+
+                <!-- Processing Layer -->
+                <div class="flow-node flow-processor">
+                    <i class="fas fa-brain"></i>
+                    <h4>Gemini 2.0 Fusion Engine</h4>
+                    <p>Deduplication • Geocoding • Mag Scoring</p>
+                </div>
+
+                <!-- Connector -->
+                <div class="flow-arrow-down"></div>
+
+                <!-- Output Layer -->
+                <div class="flow-node"
+                    style="border-top: 4px solid #fff; border-image: linear-gradient(to right, #00ca72 33%, #ffcb00 33%, #ffcb00 66%, #fb275d 66%) 1; box-shadow: 0 8px 20px rgba(0,0,0,0.08);">
+                    <i class="fas fa-server" style="color: #0073ea;"></i>
+                    <h4 style="color: #323338;">Monday.com OS</h4>
+                    <p>Operational Dashboard & Alerts</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- DASHBOARD PREVIEW -->
+    <section id="dashboard-preview">
+        <div class="container">
+            <h2>Live Incident Board</h2>
+            <p>Real-time view of the Monday.com operational dashboard, showing active incidents and status.</p>
+            <div class="media-frame" style="background: transparent; border: none; overflow: visible;">
+                <img src="website_img.png" alt="Monday.com Dashboard"
+                    style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+            </div>
+        </div>
+    </section>
+
+    <!-- DASHBOARD -->
+    <section id="visualization">
+        <div class="container">
+            <h2>Heatmap</h2>
+            <p>The frontend interface allows commanders to visualize the output of the intelligence engine on a
+                geospatial plane.</p>
+            <div class="media-frame" style="aspect-ratio: 16/10;">
+                <div id="map" style="width: 100%; height: 100%; min-height: 400px;"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- MONDAY.COM INTEGRATION -->
+    <section id="integration">
+        <div class="container">
+            <h2>Operational Integration</h2>
+            <div class="grid-2">
+                <div class="card">
+                    <h3>Data Schema</h3>
+                    <p>Each board item encapsulates a single active incident, continuously updated by the fusion engine.
+                    </p>
+
+                    <div class="status-row">
+                        <div class="status-item">
+                            <span class="status-label">Headline</span>
+                            <span class="status-value">Tactical Super-Summary</span>
+                        </div>
+                        <div class="status-item">
+                            <span class="status-label">Metric</span>
+                            <span class="status-value">Magnitude (0-10)</span>
+                        </div>
+                    </div>
+                    <div class="status-row">
+                        <div class="status-item">
+                            <span class="status-label">Safety</span>
+                            <span class="status-value">Human Threat Assessment</span>
+                        </div>
+                        <div class="status-item">
+                            <span class="status-label">Infra</span>
+                            <span class="status-value">Power & Transport Status</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3>Response Logic</h3>
+                    <p>Automated routing based on the calculated Magnitude score ensures efficient resource allocation.
+                    </p>
+
+                    <ul class="clean-list" style="margin-top: 24px;">
+                        <li>
+                            <span class="color-dot" style="background:#ff3b30;"></span>
+                            <strong style="color: #ff3b30;">Act (Mag 7-10):</strong> Immediate threat. Trigger automated
+                            alerts.
+                        </li>
+                        <li>
+                            <span class="color-dot" style="background:#ffcc00;"></span>
+                            <strong style="color: #ffcc00;">Watch (Mag 4-7):</strong> Active fire near assets.
+                            Pre-position resources.
+                        </li>
+                        <li>
+                            <span class="color-dot" style="background:#007aff;"></span>
+                            <strong style="color: #007aff;">Monitor (Mag 2-4):</strong> Remote vegetation fire or smoke
+                            check.
+                        </li>
+                        <li>
+                            <span class="color-dot" style="background:#34c759;"></span>
+                            <strong style="color: #34c759;">Stable (Mag 0-1):</strong> No active reports or full
+                            containment.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAILURE ANALYSIS -->
+    <section id="risk-analysis">
+        <div class="container">
+            <h2>Process Integrity & Risk Analysis</h2>
+            <div class="flex-grid-center">
+                <div class="card">
+                    <h3>1. Verification Failure</h3>
+                    <p class="overline">Slang & Metaphors</p>
+                    <p><strong>The Problem:</strong> AI can be "too smart" for its own good. If it sees a tweet saying
+                        "This new song is fire," it might log a wildfire.</p>
+                    <p
+                        style="color: var(--text-primary); font-size: 0.9em; margin-top: 12px; padding-top:12px; border-top:1px solid #eee;">
+                        <strong>The Fix: The Two-Source Rule.</strong> System isn't allowed to raise a major alarm
+                        unless it finds the same info in two different places (e.g., Social + Official).
+                    </p>
+                </div>
+                <div class="card">
+                    <h3>2. Temporal Sync Error</h3>
+                    <p class="overline">Old News</p>
+                    <p><strong>The Problem:</strong> Old news keeps going viral. The AI might treat a 3-hour old video
+                        as a current event.</p>
+                    <p
+                        style="color: var(--text-primary); font-size: 0.9em; margin-top: 12px; padding-top:12px; border-top:1px solid #eee;">
+                        <strong>The Fix: Information "Use-By" Dates.</strong> News older than 20 minutes is marked
+                        "stale" and moved to history immediately.
+                    </p>
+                </div>
+                <div class="card">
+                    <h3>3. Geographic Misalignment</h3>
+                    <p class="overline">Location Mix-ups</p>
+                    <p><strong>The Problem:</strong> Ambiguous place names (e.g., "Main St") can send teams to the wrong
+                        town 100 miles away.</p>
+                    <p
+                        style="color: var(--text-primary); font-size: 0.9em; margin-top: 12px; padding-top:12px; border-top:1px solid #eee;">
+                        <strong>The Fix: Digital Fencing.</strong> We lock the AI inside a "geographic box" (County
+                        Lines). If it can't prove a report is inside, it ignores it.
+                    </p>
+                </div>
+                <div class="card">
+                    <h3>4. Resource Bias</h3>
+                    <p class="overline">The "Blind Spot" Risk</p>
+                    <p><strong>The Problem:</strong> AI follows noise. Wealthy areas tweet more, potentially drowning
+                        out silent deadlines in rural areas.</p>
+                    <p
+                        style="color: var(--text-primary); font-size: 0.9em; margin-top: 12px; padding-top:12px; border-top:1px solid #eee;">
+                        <strong>The Fix: Official Feed Priority.</strong> The system prioritizes official sensors
+                        (Satellite/Towers) over social volume.
+                    </p>
+                </div>
+                <div class="card">
+                    <h3>5. Data Conflict</h3>
+                    <p class="overline">Contradictory Reports</p>
+                    <p><strong>The Problem:</strong> Conflicting onsite reports ("Bridge down" vs "Bridge open") can
+                        lead to vague "average" statuses.</p>
+                    <p
+                        style="color: var(--text-primary); font-size: 0.9em; margin-top: 12px; padding-top:12px; border-top:1px solid #eee;">
+                        <strong>The Fix: Timestamp Tie-Breaking.</strong> System trusts the most recent official source.
+                        If unsure, certainty score drops and deep summary will reflect the uncertainty.
+                    </p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="map_data.js"></script>
+    <script src="map_init.js"></script>
+
+
+</body>
+<!-- Force Deploy: 2025-12-31 16:30 -->
+</html>

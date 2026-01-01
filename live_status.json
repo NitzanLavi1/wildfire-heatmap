@@ -1,0 +1,92 @@
+{
+  "Shasta": {
+    "magnitude": 6,
+    "color": "#FFD700",
+    "headline": "Vegetation fire holding at ridges with crews making good progress on containment lines.",
+    "updated": "2025-12-31T10:53:40.865193"
+  },
+  "Malibu": {
+    "magnitude": 6,
+    "color": "#FFD700",
+    "headline": "Rapidly moving grass fire driven by onshore winds is impacting PCH and threatening homes.",
+    "updated": "2025-12-30T21:59:52.225078"
+  },
+  "Joshua Tree": {
+    "magnitude": 2,
+    "color": "#00ff00",
+    "headline": "Small fire in desert scrub showing slow movement with minimal threat to park resources.",
+    "updated": "2025-12-30T22:01:10.545146"
+  },
+  "Oakland": {
+    "magnitude": 7,
+    "color": "#FFD700",
+    "headline": "Vegetation fire in urban-interface zone raises high concern due to density and history.",
+    "updated": "2025-12-30T22:01:05.325262"
+  },
+  "Riverside": {
+    "magnitude": 8,
+    "color": "#ff0000",
+    "headline": "Dangerous wind-driven fire poses immediate threat to suburban tract housing in Moreno Valley.",
+    "updated": "2025-12-31T10:55:27.374582"
+  },
+  "Yosemite": {
+    "magnitude": 2,
+    "color": "#0000ff",
+    "headline": "Yosemite High Country",
+    "updated": "2025-12-31T10:54:39.596159"
+  },
+  "Tahoe": {
+    "magnitude": 1,
+    "color": "#00ff00",
+    "headline": "Tahoe Basin",
+    "updated": "2025-12-31T10:55:36.363258"
+  },
+  "Napa": {
+    "magnitude": 9,
+    "color": "#ff0000",
+    "headline": "Erratic fire behavior with spotting up to 1 mile threatens multiple structures in Napa Valley.",
+    "updated": "2025-12-31T10:52:00.881830"
+  },
+  "Big Sur": {
+    "magnitude": 4,
+    "color": "#0000ff",
+    "headline": "Big Sur Coast",
+    "updated": "2025-12-30T22:00:59.437247"
+  },
+  "Monterey": {
+    "magnitude": 4,
+    "color": "#FFD700",
+    "headline": "Big Sur Coast",
+    "updated": "2025-12-31T10:54:38.536192"
+  },
+  "Alameda": {
+    "magnitude": 7,
+    "color": "#ff0000",
+    "headline": "Vegetation fire in urban-interface zone raises high concern due to density and history.",
+    "updated": "2025-12-31T10:55:07.063130"
+  },
+  "San Bernardino": {
+    "magnitude": 2,
+    "color": "#0000ff",
+    "headline": "Small fire in desert scrub showing slow movement with minimal threat to park resources.",
+    "updated": "2025-12-31T10:55:23.636131"
+  },
+  "San Diego": {
+    "magnitude": 3,
+    "color": "#0000ff",
+    "headline": "Small roadside fire near I-5 causing traffic delays but no structural threat.",
+    "updated": "2025-12-31T10:55:09.637576"
+  },
+  "Los Angeles": {
+    "magnitude": 6,
+    "color": "#FFD700",
+    "headline": "Rapidly moving grass fire driven by onshore winds is impacting PCH and threatening homes.",
+    "updated": "2025-12-31T10:55:41.044766"
+  },
+  "Siskiyou": {
+    "magnitude": 8,
+    "color": "#ff0000",
+    "headline": "Siskiyou Complex",
+    "updated": "2025-12-31T10:50:29.268370"
+  }
+}

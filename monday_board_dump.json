@@ -1,0 +1,982 @@
+{
+    "data": {
+        "boards": [
+            {
+                "name": "Incidents",
+                "items_page": {
+                    "items": [
+                        {
+                            "id": "2597767251",
+                            "name": "Dangerous wind-driven fire poses immediate threat to suburban tract housing in Moreno Valley.",
+                            "column_values": [
+                                {
+                                    "id": "multiple_person_mkz4cff5",
+                                    "text": "",
+                                    "value": null,
+                                    "type": "people"
+                                },
+                                {
+                                    "id": "numeric_mkz364ep",
+                                    "text": "8",
+                                    "value": "\"8\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "color_mkz3fk3v",
+                                    "text": "Act",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "long_text_mkz3rga9",
+                                    "text": "A critical wind event is driving the Rabbit Fire rapidly towards densely populated suburban neighborhoods in Moreno Valley. Zero containment has been achieved so far, and the fire is spotting well ahead of the main front. Immediate evacuation orders have been issued for Zone 3, with over 5,000 residents impacted and power lines reported down in the area.\n\n[Certainty Score: 96/100]",
+                                    "value": "{\"text\":\"A critical wind event is driving the Rabbit Fire rapidly towards densely populated suburban neighborhoods in Moreno Valley. Zero containment has been achieved so far, and the fire is spotting well ahead of the main front. Immediate evacuation orders have been issued for Zone 3, with over 5,000 residents impacted and power lines reported down in the area.\\n\\n[Certainty Score: 96/100]\",\"changed_at\":\"2025-12-30T20:33:51.809Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "color_mkz3kz4n",
+                                    "text": "Partially Damaged",
+                                    "value": "{\"index\":2}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3y5ey",
+                                    "text": "Down",
+                                    "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2025-12-31T08:28:05.763Z\"}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3st2m",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "text_mkz34fzt",
+                                    "text": "Riverside",
+                                    "value": "\"Riverside\"",
+                                    "type": "text"
+                                },
+                                {
+                                    "id": "location_mkz36zby",
+                                    "text": "Moreno Valley, CA",
+                                    "value": "{\"lat\":0,\"lng\":0,\"address\":\"Moreno Valley, CA\"}",
+                                    "type": "location"
+                                },
+                                {
+                                    "id": "long_text_mkz3adbt",
+                                    "text": "2 injured: one broken leg, one unknown",
+                                    "value": "{\"text\":\"2 injured: one broken leg, one unknown\",\"changed_at\":\"2025-12-31T08:29:15.995Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3c9j4",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:33:51.812Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3tf8n",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:33:51.813Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz35pkj",
+                                    "text": "Normal.",
+                                    "value": "{\"text\":\"Normal.\",\"changed_at\":\"2025-12-30T20:33:51.813Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "numeric_mkz3yn42",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz323p7",
+                                    "text": "2",
+                                    "value": "\"2\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3m09a",
+                                    "text": "5000",
+                                    "value": "\"5000\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3gahm",
+                                    "text": "12",
+                                    "value": "\"12\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3v9y6",
+                                    "text": "1500",
+                                    "value": "\"1500\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3c5mn",
+                                    "text": "60",
+                                    "value": "\"60\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3mcdv",
+                                    "text": "2500",
+                                    "value": "\"2500\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3zkff",
+                                    "text": "5",
+                                    "value": "\"5\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz36ms1",
+                                    "text": "250",
+                                    "value": "\"250\"",
+                                    "type": "numbers"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2597786194",
+                            "name": "Vegetation fire in urban-interface zone raises high concern due to density and history.",
+                            "column_values": [
+                                {
+                                    "id": "multiple_person_mkz4cff5",
+                                    "text": "",
+                                    "value": null,
+                                    "type": "people"
+                                },
+                                {
+                                    "id": "numeric_mkz364ep",
+                                    "text": "7",
+                                    "value": "\"7\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "color_mkz3fk3v",
+                                    "text": "Act",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "long_text_mkz3rga9",
+                                    "text": "A vegetation fire has broken out in the Oakland Hills urban-interface zone, triggering a massive response due to the area's tragic fire history and high housing density. Smoke is visible throughout the Bay Area, and firefighters are engaging in an aggressive initial attack to prevent the fire from establishing in the canopy. Advisory evacuations are being broadcast for Skyline Blvd residents.\n\n[Certainty Score: 92/100]",
+                                    "value": "{\"text\":\"A vegetation fire has broken out in the Oakland Hills urban-interface zone, triggering a massive response due to the area's tragic fire history and high housing density. Smoke is visible throughout the Bay Area, and firefighters are engaging in an aggressive initial attack to prevent the fire from establishing in the canopy. Advisory evacuations are being broadcast for Skyline Blvd residents.\\n\\n[Certainty Score: 92/100]\",\"changed_at\":\"2025-12-30T20:34:00.565Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "color_mkz3kz4n",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3y5ey",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3st2m",
+                                    "text": "Partially Damaged",
+                                    "value": "{\"index\":2,\"post_id\":null,\"changed_at\":\"2025-12-31T08:28:13.125Z\"}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "text_mkz34fzt",
+                                    "text": "Alameda",
+                                    "value": "\"Alameda\"",
+                                    "type": "text"
+                                },
+                                {
+                                    "id": "location_mkz36zby",
+                                    "text": "Oakland Hills, CA",
+                                    "value": "{\"lat\":0,\"lng\":0,\"address\":\"Oakland Hills, CA\"}",
+                                    "type": "location"
+                                },
+                                {
+                                    "id": "long_text_mkz3adbt",
+                                    "text": "No significant activity.",
+                                    "value": "{\"text\":\"No significant activity.\",\"changed_at\":\"2025-12-30T20:34:00.567Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3c9j4",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:34:00.567Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3tf8n",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:34:00.567Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz35pkj",
+                                    "text": "Normal.",
+                                    "value": "{\"text\":\"Normal.\",\"changed_at\":\"2025-12-30T20:34:00.568Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "numeric_mkz3yn42",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz323p7",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3m09a",
+                                    "text": "1500",
+                                    "value": "\"1500\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3gahm",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3v9y6",
+                                    "text": "300",
+                                    "value": "\"300\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3c5mn",
+                                    "text": "25",
+                                    "value": "\"25\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3mcdv",
+                                    "text": "10",
+                                    "value": "\"10\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3zkff",
+                                    "text": "15",
+                                    "value": "\"15\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz36ms1",
+                                    "text": "85",
+                                    "value": "\"85\"",
+                                    "type": "numbers"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2597741899",
+                            "name": "Vegetation fire holding at ridges with crews making good progress on containment lines.",
+                            "column_values": [
+                                {
+                                    "id": "multiple_person_mkz4cff5",
+                                    "text": "",
+                                    "value": null,
+                                    "type": "people"
+                                },
+                                {
+                                    "id": "numeric_mkz364ep",
+                                    "text": "6",
+                                    "value": "\"6\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "color_mkz3fk3v",
+                                    "text": "Watch",
+                                    "value": "{\"index\":2}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "long_text_mkz3rga9",
+                                    "text": "The Zogg Fire is currently holding at the main ridge lines, aided by calming wind conditions. Fire crews have established solid anchor points and are making good progress on constructing containment lines. While evacuation warnings remain for nearby communities, the immediate threat to life and property has significantly diminished.\n\n[Certainty Score: 88/100]",
+                                    "value": "{\"text\":\"The Zogg Fire is currently holding at the main ridge lines, aided by calming wind conditions. Fire crews have established solid anchor points and are making good progress on constructing containment lines. While evacuation warnings remain for nearby communities, the immediate threat to life and property has significantly diminished.\\n\\n[Certainty Score: 88/100]\",\"changed_at\":\"2025-12-30T20:33:47.365Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "color_mkz3kz4n",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3y5ey",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3st2m",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "text_mkz34fzt",
+                                    "text": "Shasta",
+                                    "value": "\"Shasta\"",
+                                    "type": "text"
+                                },
+                                {
+                                    "id": "location_mkz36zby",
+                                    "text": "Redding, CA",
+                                    "value": "{\"lat\":0,\"lng\":0,\"address\":\"Redding, CA\"}",
+                                    "type": "location"
+                                },
+                                {
+                                    "id": "long_text_mkz3adbt",
+                                    "text": "No significant activity.",
+                                    "value": "{\"text\":\"No significant activity.\",\"changed_at\":\"2025-12-30T20:33:47.368Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3c9j4",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:33:47.369Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3tf8n",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:33:47.369Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz35pkj",
+                                    "text": "Normal.",
+                                    "value": "{\"text\":\"Normal.\",\"changed_at\":\"2025-12-30T20:33:47.369Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "numeric_mkz3yn42",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz323p7",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3m09a",
+                                    "text": "100",
+                                    "value": "\"100\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3gahm",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3v9y6",
+                                    "text": "20",
+                                    "value": "\"20\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3c5mn",
+                                    "text": "10",
+                                    "value": "\"10\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3mcdv",
+                                    "text": "520",
+                                    "value": "\"520\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3zkff",
+                                    "text": "25",
+                                    "value": "\"25\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz36ms1",
+                                    "text": "95",
+                                    "value": "\"95\"",
+                                    "type": "numbers"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2597741900",
+                            "name": "Big Sur Coast",
+                            "column_values": [
+                                {
+                                    "id": "multiple_person_mkz4cff5",
+                                    "text": "",
+                                    "value": null,
+                                    "type": "people"
+                                },
+                                {
+                                    "id": "numeric_mkz364ep",
+                                    "text": "4",
+                                    "value": "\"4\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "color_mkz3fk3v",
+                                    "text": "Watch",
+                                    "value": "{\"index\":2,\"changed_at\":\"2025-12-30T20:33:57.154Z\"}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "long_text_mkz3rga9",
+                                    "text": "Fire in steep terrain. Difficult access for ground crews.\n\n[Certainty Score: 85/100]",
+                                    "value": "{\"text\":\"Fire in steep terrain. Difficult access for ground crews.\\n\\n[Certainty Score: 85/100]\",\"changed_at\":\"2025-12-30T20:33:55.929Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "color_mkz3kz4n",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3y5ey",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3st2m",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "text_mkz34fzt",
+                                    "text": "Monterey",
+                                    "value": "\"Monterey\"",
+                                    "type": "text"
+                                },
+                                {
+                                    "id": "location_mkz36zby",
+                                    "text": "Big Sur, CA",
+                                    "value": "{\"lat\":0,\"lng\":0,\"address\":\"Big Sur, CA\"}",
+                                    "type": "location"
+                                },
+                                {
+                                    "id": "long_text_mkz3adbt",
+                                    "text": "No significant activity.",
+                                    "value": "{\"text\":\"No significant activity.\",\"changed_at\":\"2025-12-30T20:33:55.933Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3c9j4",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:33:55.933Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3tf8n",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:33:55.934Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz35pkj",
+                                    "text": "Normal.",
+                                    "value": "{\"text\":\"Normal.\",\"changed_at\":\"2025-12-30T20:33:55.934Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "numeric_mkz3yn42",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz323p7",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3m09a",
+                                    "text": "50",
+                                    "value": "\"50\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3gahm",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3v9y6",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3c5mn",
+                                    "text": "5",
+                                    "value": "\"5\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3mcdv",
+                                    "text": "15",
+                                    "value": "\"15\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3zkff",
+                                    "text": "10",
+                                    "value": "\"10\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz36ms1",
+                                    "text": "45",
+                                    "value": "\"45\"",
+                                    "type": "numbers"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2598540184",
+                            "name": "Small roadside fire near I-5 causing traffic delays but no structural threat.",
+                            "column_values": [
+                                {
+                                    "id": "multiple_person_mkz4cff5",
+                                    "text": "",
+                                    "value": null,
+                                    "type": "people"
+                                },
+                                {
+                                    "id": "numeric_mkz364ep",
+                                    "text": "3",
+                                    "value": "\"3\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "color_mkz3fk3v",
+                                    "text": "Watch",
+                                    "value": "{\"index\":2,\"changed_at\":\"2025-12-31T08:39:49.609Z\"}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "long_text_mkz3rga9",
+                                    "text": "A small vegetation fire ignited near the I-5 corridor, likely due to a vehicle spark. Firefighters are on scene and handling the incident effectively with mobile attack units. Traffic is backed up significantly, but there is no threat to nearby structures or communities at this time.\n\n[Certainty Score: 80/100]",
+                                    "value": "{\"text\":\"A small vegetation fire ignited near the I-5 corridor, likely due to a vehicle spark. Firefighters are on scene and handling the incident effectively with mobile attack units. Traffic is backed up significantly, but there is no threat to nearby structures or communities at this time.\\n\\n[Certainty Score: 80/100]\",\"changed_at\":\"2025-12-31T08:39:47.650Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "color_mkz3kz4n",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3y5ey",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3st2m",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "text_mkz34fzt",
+                                    "text": "San Diego",
+                                    "value": "\"San Diego\"",
+                                    "type": "text"
+                                },
+                                {
+                                    "id": "location_mkz36zby",
+                                    "text": "Oceanside, CA",
+                                    "value": "{\"lat\":0,\"lng\":0,\"address\":\"Oceanside, CA\"}",
+                                    "type": "location"
+                                },
+                                {
+                                    "id": "long_text_mkz3adbt",
+                                    "text": "None. Traffic impact only.",
+                                    "value": "{\"text\":\"None. Traffic impact only.\",\"changed_at\":\"2025-12-31T08:39:47.654Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3c9j4",
+                                    "text": "None.",
+                                    "value": "{\"text\":\"None.\",\"changed_at\":\"2025-12-31T08:39:47.654Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3tf8n",
+                                    "text": "Low. 2 acres. 80% contained.",
+                                    "value": "{\"text\":\"Low. 2 acres. 80% contained.\",\"changed_at\":\"2025-12-31T08:39:47.655Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz35pkj",
+                                    "text": "Clear.",
+                                    "value": "{\"text\":\"Clear.\",\"changed_at\":\"2025-12-31T08:39:47.655Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "numeric_mkz3yn42",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz323p7",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3m09a",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3gahm",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3v9y6",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3c5mn",
+                                    "text": "5",
+                                    "value": "\"5\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3mcdv",
+                                    "text": "2",
+                                    "value": "\"2\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3zkff",
+                                    "text": "80",
+                                    "value": "\"80\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz36ms1",
+                                    "text": "35",
+                                    "value": "\"35\"",
+                                    "type": "numbers"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2598558259",
+                            "name": "Rapidly moving grass fire driven by onshore winds is impacting PCH and threatening homes.",
+                            "column_values": [
+                                {
+                                    "id": "multiple_person_mkz4cff5",
+                                    "text": "",
+                                    "value": null,
+                                    "type": "people"
+                                },
+                                {
+                                    "id": "numeric_mkz364ep",
+                                    "text": "6",
+                                    "value": "\"6\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "color_mkz3fk3v",
+                                    "text": "Watch",
+                                    "value": "{\"index\":2,\"changed_at\":\"2025-12-31T08:40:16.896Z\"}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "long_text_mkz3rga9",
+                                    "text": "A fast-moving grass fire, fueled by stiff onshore winds, is spreading rapidly near Topanga Canyon. The fire has impacted Pacific Coast Highway (PCH), forcing its closure in both directions and creating a bottleneck for evacuations. several beach homes are under immediate threat, and air tankers are currently conducting drops to slow the forward spread.\n\n[Certainty Score: 90/100]",
+                                    "value": "{\"text\":\"A fast-moving grass fire, fueled by stiff onshore winds, is spreading rapidly near Topanga Canyon. The fire has impacted Pacific Coast Highway (PCH), forcing its closure in both directions and creating a bottleneck for evacuations. several beach homes are under immediate threat, and air tankers are currently conducting drops to slow the forward spread.\\n\\n[Certainty Score: 90/100]\",\"changed_at\":\"2025-12-31T08:40:15.085Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "color_mkz3kz4n",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3y5ey",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3st2m",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "text_mkz34fzt",
+                                    "text": "Los Angeles",
+                                    "value": "\"Los Angeles\"",
+                                    "type": "text"
+                                },
+                                {
+                                    "id": "location_mkz36zby",
+                                    "text": "Malibu, CA",
+                                    "value": "{\"lat\":0,\"lng\":0,\"address\":\"Malibu, CA\"}",
+                                    "type": "location"
+                                },
+                                {
+                                    "id": "long_text_mkz3adbt",
+                                    "text": "Beach homes under threat. Evacuation warning for Topanga Canyon.",
+                                    "value": "{\"text\":\"Beach homes under threat. Evacuation warning for Topanga Canyon.\",\"changed_at\":\"2025-12-31T08:40:15.087Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3c9j4",
+                                    "text": "PCH closed in both directions.",
+                                    "value": "{\"text\":\"PCH closed in both directions.\",\"changed_at\":\"2025-12-31T08:40:15.088Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3tf8n",
+                                    "text": "High spread rate in light fuels.",
+                                    "value": "{\"text\":\"High spread rate in light fuels.\",\"changed_at\":\"2025-12-31T08:40:15.088Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz35pkj",
+                                    "text": "Smoke impacting LA basin.",
+                                    "value": "{\"text\":\"Smoke impacting LA basin.\",\"changed_at\":\"2025-12-31T08:40:15.088Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "numeric_mkz3yn42",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz323p7",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3m09a",
+                                    "text": "400",
+                                    "value": "\"400\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3gahm",
+                                    "text": "1",
+                                    "value": "\"1\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3v9y6",
+                                    "text": "50",
+                                    "value": "\"50\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3c5mn",
+                                    "text": "40",
+                                    "value": "\"40\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3mcdv",
+                                    "text": "55",
+                                    "value": "\"55\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3zkff",
+                                    "text": "10",
+                                    "value": "\"10\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz36ms1",
+                                    "text": "120",
+                                    "value": "\"120\"",
+                                    "type": "numbers"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2597741998",
+                            "name": "Small fire in desert scrub showing slow movement with minimal threat to park resources.",
+                            "column_values": [
+                                {
+                                    "id": "multiple_person_mkz4cff5",
+                                    "text": "",
+                                    "value": null,
+                                    "type": "people"
+                                },
+                                {
+                                    "id": "numeric_mkz364ep",
+                                    "text": "2",
+                                    "value": "\"2\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "color_mkz3fk3v",
+                                    "text": "Monitor",
+                                    "value": "{\"index\":3,\"post_id\":null,\"changed_at\":\"2025-12-30T20:35:15.196Z\"}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "long_text_mkz3rga9",
+                                    "text": "A small fire has been detected in the high desert scrub near Jumbo Rocks. The fire is moving slowly due to sparse fuels and lack of wind. Park Rangers are monitoring the situation, and campgrounds have been evacuated as a precaution, but no significant damage to the park's iconic Joshua Trees or infrastructure is expected at this time.\n\n[Certainty Score: 88/100]",
+                                    "value": "{\"text\":\"A small fire has been detected in the high desert scrub near Jumbo Rocks. The fire is moving slowly due to sparse fuels and lack of wind. Park Rangers are monitoring the situation, and campgrounds have been evacuated as a precaution, but no significant damage to the park's iconic Joshua Trees or infrastructure is expected at this time.\\n\\n[Certainty Score: 88/100]\",\"changed_at\":\"2025-12-30T20:34:05.095Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "color_mkz3kz4n",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3y5ey",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "color_mkz3st2m",
+                                    "text": "Functional",
+                                    "value": "{\"index\":1}",
+                                    "type": "status"
+                                },
+                                {
+                                    "id": "text_mkz34fzt",
+                                    "text": "San Bernardino",
+                                    "value": "\"San Bernardino\"",
+                                    "type": "text"
+                                },
+                                {
+                                    "id": "location_mkz36zby",
+                                    "text": "Joshua Tree NP, CA",
+                                    "value": "{\"lat\":0,\"lng\":0,\"address\":\"Joshua Tree NP, CA\"}",
+                                    "type": "location"
+                                },
+                                {
+                                    "id": "long_text_mkz3adbt",
+                                    "text": "No significant activity.",
+                                    "value": "{\"text\":\"No significant activity.\",\"changed_at\":\"2025-12-30T20:34:05.098Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3c9j4",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:34:05.099Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz3tf8n",
+                                    "text": "Stable.",
+                                    "value": "{\"text\":\"Stable.\",\"changed_at\":\"2025-12-30T20:34:05.099Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "long_text_mkz35pkj",
+                                    "text": "Normal.",
+                                    "value": "{\"text\":\"Normal.\",\"changed_at\":\"2025-12-30T20:34:05.099Z\"}",
+                                    "type": "long_text"
+                                },
+                                {
+                                    "id": "numeric_mkz3yn42",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz323p7",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3m09a",
+                                    "text": "50",
+                                    "value": "\"50\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3gahm",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3v9y6",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3c5mn",
+                                    "text": "0",
+                                    "value": "\"0\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3mcdv",
+                                    "text": "1",
+                                    "value": "\"1\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz3zkff",
+                                    "text": "50",
+                                    "value": "\"50\"",
+                                    "type": "numbers"
+                                },
+                                {
+                                    "id": "numeric_mkz36ms1",
+                                    "text": "20",
+                                    "value": "\"20\"",
+                                    "type": "numbers"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "extensions": {
+        "request_id": "59691216-12a5-9e0d-aa3e-681d6bd6522c"
+    }
+}

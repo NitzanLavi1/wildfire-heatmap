@@ -1,0 +1,697 @@
+Searching for board: 'Rapid Assessment Form'...
+Available boards:
+- Your opinion matters! (ID: 5089411800)
+- monday.com basic training (ID: 5089411799)
+- Resources (ID: 5089411798)
+- About the monday.com Emergency Response Team (ID: 5089411797)
+- Rapid Assessment Form (ID: 5089411796)
+Found board ID: 5089411796
+{
+  "data": {
+    "boards": [
+      {
+        "name": "Rapid Assessment Form",
+        "items_page": {
+          "items": [
+            {
+              "id": "2593733125",
+              "name": "Arlington",
+              "column_values": [
+                {
+                  "text": "Arlington, TX, USA",
+                  "column": {
+                    "title": "Community location"
+                  }
+                },
+                {
+                  "text": "Thomas",
+                  "column": {
+                    "title": "Name of person conducting the assessment"
+                  }
+                },
+                {
+                  "text": "thomas@email.com",
+                  "column": {
+                    "title": "Email of person conducting the assesment"
+                  }
+                },
+                {
+                  "text": "2024-06-05",
+                  "column": {
+                    "title": "Date of assessment"
+                  }
+                },
+                {
+                  "text": "2024-06-01",
+                  "column": {
+                    "title": "Date of disaster"
+                  }
+                },
+                {
+                  "text": "Fires",
+                  "column": {
+                    "title": "Disaster Effect"
+                  }
+                },
+                {
+                  "text": "Critical",
+                  "column": {
+                    "title": "Level of severity at community"
+                  }
+                },
+                {
+                  "text": "Land",
+                  "column": {
+                    "title": "Means of access"
+                  }
+                },
+                {
+                  "text": "Difficult access",
+                  "column": {
+                    "title": "Access to the community"
+                  }
+                },
+                {
+                  "text": "High temp, Strong winds",
+                  "column": {
+                    "title": "Weather conditions"
+                  }
+                },
+                {
+                  "text": "500",
+                  "column": {
+                    "title": "Number of housholds in community"
+                  }
+                },
+                {
+                  "text": "300",
+                  "column": {
+                    "title": "Estimated number of man"
+                  }
+                },
+                {
+                  "text": "200",
+                  "column": {
+                    "title": "Number of women"
+                  }
+                },
+                {
+                  "text": "80",
+                  "column": {
+                    "title": "Number of girls under 16"
+                  }
+                },
+                {
+                  "text": "100",
+                  "column": {
+                    "title": "Number of boys under 16"
+                  }
+                },
+                {
+                  "text": "260",
+                  "column": {
+                    "title": "Number of destroyed houses"
+                  }
+                },
+                {
+                  "text": "Moderate safety",
+                  "column": {
+                    "title": "Security level"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Communication lines condition"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Electricity condition"
+                  }
+                },
+                {
+                  "text": "Good",
+                  "column": {
+                    "title": "Access to drinking water"
+                  }
+                },
+                {
+                  "text": "Extreme poverty",
+                  "column": {
+                    "title": "Community vulnerability types"
+                  }
+                },
+                {
+                  "text": "Clothes, Food, Shelter, Medical",
+                  "column": {
+                    "title": "Type of support needed"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Photos"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other support needed, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Specify vulnerability type"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other disaster type, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Person"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2593696314",
+              "name": "Frisco",
+              "column_values": [
+                {
+                  "text": "Frisco, TX, USA",
+                  "column": {
+                    "title": "Community location"
+                  }
+                },
+                {
+                  "text": "Alicia",
+                  "column": {
+                    "title": "Name of person conducting the assessment"
+                  }
+                },
+                {
+                  "text": "alicia@mail.com",
+                  "column": {
+                    "title": "Email of person conducting the assesment"
+                  }
+                },
+                {
+                  "text": "2024-06-05",
+                  "column": {
+                    "title": "Date of assessment"
+                  }
+                },
+                {
+                  "text": "2024-06-01",
+                  "column": {
+                    "title": "Date of disaster"
+                  }
+                },
+                {
+                  "text": "Fires",
+                  "column": {
+                    "title": "Disaster Effect"
+                  }
+                },
+                {
+                  "text": "Critical",
+                  "column": {
+                    "title": "Level of severity at community"
+                  }
+                },
+                {
+                  "text": "Air",
+                  "column": {
+                    "title": "Means of access"
+                  }
+                },
+                {
+                  "text": "Difficult access",
+                  "column": {
+                    "title": "Access to the community"
+                  }
+                },
+                {
+                  "text": "High temp",
+                  "column": {
+                    "title": "Weather conditions"
+                  }
+                },
+                {
+                  "text": "600",
+                  "column": {
+                    "title": "Number of housholds in community"
+                  }
+                },
+                {
+                  "text": "350",
+                  "column": {
+                    "title": "Estimated number of man"
+                  }
+                },
+                {
+                  "text": "250",
+                  "column": {
+                    "title": "Number of women"
+                  }
+                },
+                {
+                  "text": "50",
+                  "column": {
+                    "title": "Number of girls under 16"
+                  }
+                },
+                {
+                  "text": "75",
+                  "column": {
+                    "title": "Number of boys under 16"
+                  }
+                },
+                {
+                  "text": "300",
+                  "column": {
+                    "title": "Number of destroyed houses"
+                  }
+                },
+                {
+                  "text": "Moderate safety",
+                  "column": {
+                    "title": "Security level"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Communication lines condition"
+                  }
+                },
+                {
+                  "text": "Fully damaged",
+                  "column": {
+                    "title": "Electricity condition"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Access to drinking water"
+                  }
+                },
+                {
+                  "text": null,
+                  "column": {
+                    "title": "Community vulnerability types"
+                  }
+                },
+                {
+                  "text": "Water, Shelter, Water filters, Medical, Clothes",
+                  "column": {
+                    "title": "Type of support needed"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Photos"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other support needed, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Specify vulnerability type"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other disaster type, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Person"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2593696196",
+              "name": "Round Rock",
+              "column_values": [
+                {
+                  "text": "Round Rock, TX, USA",
+                  "column": {
+                    "title": "Community location"
+                  }
+                },
+                {
+                  "text": "Alicia",
+                  "column": {
+                    "title": "Name of person conducting the assessment"
+                  }
+                },
+                {
+                  "text": "alicia@mail.com",
+                  "column": {
+                    "title": "Email of person conducting the assesment"
+                  }
+                },
+                {
+                  "text": "2024-06-05",
+                  "column": {
+                    "title": "Date of assessment"
+                  }
+                },
+                {
+                  "text": "2024-06-01",
+                  "column": {
+                    "title": "Date of disaster"
+                  }
+                },
+                {
+                  "text": "Fires",
+                  "column": {
+                    "title": "Disaster Effect"
+                  }
+                },
+                {
+                  "text": "Med",
+                  "column": {
+                    "title": "Level of severity at community"
+                  }
+                },
+                {
+                  "text": "Land",
+                  "column": {
+                    "title": "Means of access"
+                  }
+                },
+                {
+                  "text": "Difficult access",
+                  "column": {
+                    "title": "Access to the community"
+                  }
+                },
+                {
+                  "text": "High temp, Strong winds",
+                  "column": {
+                    "title": "Weather conditions"
+                  }
+                },
+                {
+                  "text": "1000",
+                  "column": {
+                    "title": "Number of housholds in community"
+                  }
+                },
+                {
+                  "text": "600",
+                  "column": {
+                    "title": "Estimated number of man"
+                  }
+                },
+                {
+                  "text": "400",
+                  "column": {
+                    "title": "Number of women"
+                  }
+                },
+                {
+                  "text": "50",
+                  "column": {
+                    "title": "Number of girls under 16"
+                  }
+                },
+                {
+                  "text": "75",
+                  "column": {
+                    "title": "Number of boys under 16"
+                  }
+                },
+                {
+                  "text": "300",
+                  "column": {
+                    "title": "Number of destroyed houses"
+                  }
+                },
+                {
+                  "text": "Moderate safety",
+                  "column": {
+                    "title": "Security level"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Communication lines condition"
+                  }
+                },
+                {
+                  "text": "Fully damaged",
+                  "column": {
+                    "title": "Electricity condition"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Access to drinking water"
+                  }
+                },
+                {
+                  "text": "Extreme poverty",
+                  "column": {
+                    "title": "Community vulnerability types"
+                  }
+                },
+                {
+                  "text": "Water, Shelter, Water filters, Medical, Clothes",
+                  "column": {
+                    "title": "Type of support needed"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Photos"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other support needed, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Specify vulnerability type"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other disaster type, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Person"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2593696126",
+              "name": "Frisco",
+              "column_values": [
+                {
+                  "text": "Frisco, TX, USA",
+                  "column": {
+                    "title": "Community location"
+                  }
+                },
+                {
+                  "text": "Alicia",
+                  "column": {
+                    "title": "Name of person conducting the assessment"
+                  }
+                },
+                {
+                  "text": "alicia@mail.com",
+                  "column": {
+                    "title": "Email of person conducting the assesment"
+                  }
+                },
+                {
+                  "text": "2024-06-05",
+                  "column": {
+                    "title": "Date of assessment"
+                  }
+                },
+                {
+                  "text": "2024-06-01",
+                  "column": {
+                    "title": "Date of disaster"
+                  }
+                },
+                {
+                  "text": "Wind",
+                  "column": {
+                    "title": "Disaster Effect"
+                  }
+                },
+                {
+                  "text": "Critical",
+                  "column": {
+                    "title": "Level of severity at community"
+                  }
+                },
+                {
+                  "text": "Land",
+                  "column": {
+                    "title": "Means of access"
+                  }
+                },
+                {
+                  "text": "Difficult access",
+                  "column": {
+                    "title": "Access to the community"
+                  }
+                },
+                {
+                  "text": "High temp",
+                  "column": {
+                    "title": "Weather conditions"
+                  }
+                },
+                {
+                  "text": "600",
+                  "column": {
+                    "title": "Number of housholds in community"
+                  }
+                },
+                {
+                  "text": "350",
+                  "column": {
+                    "title": "Estimated number of man"
+                  }
+                },
+                {
+                  "text": "250",
+                  "column": {
+                    "title": "Number of women"
+                  }
+                },
+                {
+                  "text": "50",
+                  "column": {
+                    "title": "Number of girls under 16"
+                  }
+                },
+                {
+                  "text": "75",
+                  "column": {
+                    "title": "Number of boys under 16"
+                  }
+                },
+                {
+                  "text": "300",
+                  "column": {
+                    "title": "Number of destroyed houses"
+                  }
+                },
+                {
+                  "text": "Moderate safety",
+                  "column": {
+                    "title": "Security level"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Communication lines condition"
+                  }
+                },
+                {
+                  "text": "Fully damaged",
+                  "column": {
+                    "title": "Electricity condition"
+                  }
+                },
+                {
+                  "text": "Partly damaged",
+                  "column": {
+                    "title": "Access to drinking water"
+                  }
+                },
+                {
+                  "text": null,
+                  "column": {
+                    "title": "Community vulnerability types"
+                  }
+                },
+                {
+                  "text": "Water, Shelter, Water filters, Medical, Clothes",
+                  "column": {
+                    "title": "Type of support needed"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Photos"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other support needed, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Specify vulnerability type"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "If other disaster type, please specify"
+                  }
+                },
+                {
+                  "text": "",
+                  "column": {
+                    "title": "Person"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "extensions": {
+    "request_id": "18d2b93f-3914-9d2c-830c-27af37648d5c"
+  },
+  "account_id": 33045480
+}

@@ -1,0 +1,2530 @@
+[
+    {
+        "id": "6dc4f106-312b-4be2-bc17-6cdd8bd8728d",
+        "headline": "BRUSH FIRE Topanga Canyon; EVACUATION ORDER.",
+        "source_name": "Official LAFD",
+        "source_link": "https://www.lafd.org/news/topanga",
+        "coordinates": [
+            34.0935,
+            -118.6003
+        ],
+        "evacuation_status": "Active/Warning",
+        "priority": "High",
+        "timestamp": "2025-12-26T18:33:40.970542",
+        "magnitude": 9.5,
+        "certainty_index": "Official Source Verified",
+        "raw_text": "CRITICAL: Fast moving brush fire in Topanga Canyon. Structures threatened. Mandatory Evacuations in progress for Zones 1-4. #TopangaFire"
+    },
+    {
+        "id": "f4d03092-8d1d-4996-8dd2-e126aa8c16d1",
+        "headline": "FLAMES VISIBLE near Griffith Park! Urgent.",
+        "raw_text": "Fire activity spotted near Griffith Park. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/0_0",
+        "coordinates": [
+            34.12657645591347,
+            -118.27486345599229
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-13T22:16:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ae61382b-185a-48f2-ba29-292c460b0ee3",
+        "headline": "Reported smoke near Getty Center.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/0_1",
+        "coordinates": [
+            34.12325845817503,
+            -118.46289998058806
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-14T00:30:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "a47e755a-2802-493d-9052-c5c2eeef424e",
+        "headline": "Reported smoke near Joshua Tree.",
+        "raw_text": "Fire activity spotted near Joshua Tree. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/0_2",
+        "coordinates": [
+            33.86335982760196,
+            -115.91663808108738
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-14T17:54:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "818a1be9-1f80-4dbf-a889-8a6c83b5db5f",
+        "headline": "FLAMES VISIBLE near Griffith Park! Urgent.",
+        "raw_text": "Fire activity spotted near Griffith Park. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/0_3",
+        "coordinates": [
+            34.08011820677864,
+            -118.35458561713446
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-13T23:38:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "86467074-7515-4f5d-85ed-81b006dad3ae",
+        "headline": "Reported smoke near Joshua Tree.",
+        "raw_text": "Fire activity spotted near Joshua Tree. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/0_4",
+        "coordinates": [
+            33.891693115460974,
+            -115.90505884735182
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-13T19:35:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "36a88518-c9eb-4df2-9c47-f4c43b105877",
+        "headline": "FLAMES VISIBLE near Getty Center! Urgent.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/1_0",
+        "coordinates": [
+            34.042266037920996,
+            -118.49642266380788
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-15T16:56:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "1f881be3-203f-4c1e-92fc-aeb4082d73a1",
+        "headline": "Reported smoke near Joshua Tree.",
+        "raw_text": "Fire activity spotted near Joshua Tree. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/1_1",
+        "coordinates": [
+            33.88074059394415,
+            -115.91798928847355
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-15T17:21:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "5d48925b-043c-4691-aa8f-5022b8298bdc",
+        "headline": "Reported smoke near Griffith Park.",
+        "raw_text": "Fire activity spotted near Griffith Park. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/1_2",
+        "coordinates": [
+            34.07645833529107,
+            -118.30524019681069
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-15T04:43:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "af2e175c-2a3e-4633-80fd-47c16c0235a5",
+        "headline": "FLAMES VISIBLE near Getty Center! Urgent.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/1_3",
+        "coordinates": [
+            34.12098217515809,
+            -118.43191451072698
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-15T05:36:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "22c380c6-dc79-44a2-966d-777e2a754020",
+        "headline": "Reported smoke near Joshua Tree.",
+        "raw_text": "Fire activity spotted near Joshua Tree. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/1_4",
+        "coordinates": [
+            33.844846879927466,
+            -115.89291665243532
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-15T15:01:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "d2b2685b-a36c-4685-ac43-876aa3ee7f98",
+        "headline": "FLAMES VISIBLE near Getty Center! Urgent.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/2_0",
+        "coordinates": [
+            34.12167093979273,
+            -118.52300739620269
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-15T21:43:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ff507316-da4d-4bf8-bdc7-f3ca8f66bf3f",
+        "headline": "Reported smoke near Joshua Tree.",
+        "raw_text": "Fire activity spotted near Joshua Tree. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/2_1",
+        "coordinates": [
+            33.907721868849606,
+            -115.90653367259506
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-16T16:36:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "438e5b98-667a-4eeb-8f8b-19127ce1a58d",
+        "headline": "Reported smoke near Joshua Tree.",
+        "raw_text": "Fire activity spotted near Joshua Tree. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/2_2",
+        "coordinates": [
+            33.88266456663152,
+            -115.90674688497697
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-16T03:11:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ed84f298-8ccf-430c-a1be-ba0fb53f8f31",
+        "headline": "FLAMES VISIBLE near Getty Center! Urgent.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/2_3",
+        "coordinates": [
+            34.058903292870845,
+            -118.49235847065364
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-16T00:00:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "16cae0c1-71d3-401f-a495-c0e8b889d1d9",
+        "headline": "Reported smoke near Griffith Park.",
+        "raw_text": "Fire activity spotted near Griffith Park. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/2_4",
+        "coordinates": [
+            34.11436176946509,
+            -118.34728665306437
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-15T19:46:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "f34bf087-2ca6-4b02-8141-5fdbc2cb0dd9",
+        "headline": "FLAMES VISIBLE near Getty Center! Urgent.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/3_0",
+        "coordinates": [
+            34.09702597658429,
+            -118.51003234778912
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-17T05:03:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "4841e3da-14b4-4c10-9512-c7ff5454930b",
+        "headline": "Reported smoke near Griffith Park.",
+        "raw_text": "Fire activity spotted near Griffith Park. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/3_1",
+        "coordinates": [
+            34.10968482219879,
+            -118.27138497838732
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-17T03:56:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "9d6578e3-7ed4-41f5-811f-9382352aca88",
+        "headline": "Reported smoke near Getty Center.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/3_2",
+        "coordinates": [
+            34.11743846328404,
+            -118.50304090778079
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-17T09:22:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "d5c6d872-498d-4856-b955-8700805a11d2",
+        "headline": "FLAMES VISIBLE near Joshua Tree! Urgent.",
+        "raw_text": "Fire activity spotted near Joshua Tree. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/3_3",
+        "coordinates": [
+            33.84049220090762,
+            -115.91080240768183
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-17T08:39:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "07d3668a-2805-48c7-b638-14fa80c1dbb1",
+        "headline": "Reported smoke near Getty Center.",
+        "raw_text": "Fire activity spotted near Getty Center. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/3_4",
+        "coordinates": [
+            34.05689444219841,
+            -118.48760899014549
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-17T00:05:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6123b0a4-8e1f-4460-be69-9e8ea8f4c4a4",
+        "headline": "FLAMES VISIBLE near Santa Barbara! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/4_0",
+        "coordinates": [
+            34.436187069832755,
+            -119.72097513150587
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-18T01:07:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "e543f677-8b83-46d8-908d-e5349ebb47fa",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/4_1",
+        "coordinates": [
+            36.98407410735829,
+            -122.0264519889484
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-18T07:05:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "3f549516-f115-4b69-a182-beda8cab7aac",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/4_2",
+        "coordinates": [
+            34.24079405270643,
+            -119.22663993477286
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-17T22:31:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "3fcba896-fc77-4622-9565-4c511299bc57",
+        "headline": "FLAMES VISIBLE near Ventura Coast! Urgent.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/4_3",
+        "coordinates": [
+            34.30279631366491,
+            -119.23087401434461
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-18T00:54:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "0a1ced4d-21e9-478c-8703-fa5db173983d",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/4_4",
+        "coordinates": [
+            34.32302982915331,
+            -119.27409912006301
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-18T11:57:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "578c25fa-7efc-4927-ba56-fe0a93dab123",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/4_5",
+        "coordinates": [
+            36.974213478304215,
+            -122.0442662603327
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-17T22:48:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "685f5f5a-cff6-46a3-ace3-282e2a1a1ebd",
+        "headline": "FLAMES VISIBLE near Santa Cruz! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/4_6",
+        "coordinates": [
+            36.928940382425054,
+            -121.98653947265191
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-18T04:25:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "3320a7d2-8158-4583-8bc4-91757224fafd",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/4_7",
+        "coordinates": [
+            36.961776091205024,
+            -122.04433006279135
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-18T18:10:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "0e0f0f89-81f0-49c5-8eb8-f07b42bc5cf3",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/4_8",
+        "coordinates": [
+            34.31640065877669,
+            -119.20250041348474
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-18T07:41:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "dc02f78a-cb76-418a-babd-bc4899f50af3",
+        "headline": "FLAMES VISIBLE near Ventura Coast! Urgent.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/4_9",
+        "coordinates": [
+            34.31147681530899,
+            -119.25739039479411
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-17T21:35:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "98547c72-94df-4a6c-95e7-6df67e6fb888",
+        "headline": "FLAMES VISIBLE near Santa Cruz! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/5_0",
+        "coordinates": [
+            36.934122738209986,
+            -122.00413677194841
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-19T01:58:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "b10a966d-2444-4d2f-b1c7-09fdc6786404",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/5_1",
+        "coordinates": [
+            34.264905203677316,
+            -119.24581745659218
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-19T16:13:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "63279fa4-0937-4542-a19d-d134cb8a30cc",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/5_2",
+        "coordinates": [
+            34.22568994438473,
+            -119.2532012387324
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-19T01:00:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "91236498-9510-4578-9373-63caa074e0b3",
+        "headline": "FLAMES VISIBLE near Santa Cruz! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/5_3",
+        "coordinates": [
+            36.94230454962306,
+            -122.07389477881314
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-19T18:04:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "2a792bd3-9667-4054-8a3e-b54a22e70d20",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/5_4",
+        "coordinates": [
+            36.97039556257828,
+            -121.98379939586675
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-19T15:22:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "1a5ada47-4cbc-42a9-9c0c-de89750af574",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/5_5",
+        "coordinates": [
+            34.255645748699756,
+            -119.26322509157313
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-19T00:15:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "32141e26-53ec-4379-8dbd-0d1ca5f02984",
+        "headline": "FLAMES VISIBLE near Santa Cruz! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/5_6",
+        "coordinates": [
+            36.96578087911008,
+            -122.02691147148788
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-19T14:59:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "efd8bcae-2b18-4f1a-8fa8-a6377119b6d5",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/5_7",
+        "coordinates": [
+            34.298439834153434,
+            -119.24971523373712
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-18T21:00:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "7e8c7511-07eb-4a43-81e0-11e33020688e",
+        "headline": "Reported smoke near Santa Barbara.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/5_8",
+        "coordinates": [
+            34.43825840385218,
+            -119.67571016119209
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-19T12:47:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "62ed950d-a5d0-4fe1-a9c9-2e0c46af7d42",
+        "headline": "FLAMES VISIBLE near Santa Barbara! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/5_9",
+        "coordinates": [
+            34.42854245534735,
+            -119.72053769693349
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-19T14:46:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "730660c6-8c0c-40bd-9b9e-a76e087f60a6",
+        "headline": "FLAMES VISIBLE near Santa Cruz! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/6_0",
+        "coordinates": [
+            36.948608220514956,
+            -122.03851694237976
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-20T18:09:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "d64cbb28-e969-41ad-8ea0-7058210465df",
+        "headline": "Reported smoke near Santa Barbara.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/6_1",
+        "coordinates": [
+            34.45687566486325,
+            -119.68263169522412
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-20T17:56:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "b09f3a63-81c5-477e-bc38-e6127301dce8",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/6_2",
+        "coordinates": [
+            36.94192256959659,
+            -122.05884959985262
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-20T08:13:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ef9a4d0b-da29-43c7-80c5-a810541cc63c",
+        "headline": "FLAMES VISIBLE near Ventura Coast! Urgent.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/6_3",
+        "coordinates": [
+            34.26658009535817,
+            -119.18414993109185
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-20T16:28:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "4b938bb6-bf75-4456-8563-35929e1f809a",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/6_4",
+        "coordinates": [
+            34.25795375298856,
+            -119.27397312156401
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-19T20:09:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "12f39d81-7bc1-4545-a130-62c3abc0c3c3",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/6_5",
+        "coordinates": [
+            34.305214119672065,
+            -119.23922411578592
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-20T17:13:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "15d3ab0a-2efe-4cc5-92e7-22cfd4653c90",
+        "headline": "FLAMES VISIBLE near Santa Barbara! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/6_6",
+        "coordinates": [
+            34.38418968512965,
+            -119.71290444109972
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-20T08:29:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "8cbc6598-71a5-4676-80cb-e0b4e7bb4fc3",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/6_7",
+        "coordinates": [
+            34.26318230617887,
+            -119.21541915083337
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-20T06:13:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "fd6bd929-e9cc-4159-91d7-945f9ec87920",
+        "headline": "Reported smoke near Santa Barbara.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/6_8",
+        "coordinates": [
+            34.417651707648034,
+            -119.70874536543398
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-20T17:48:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c0d122f1-cec0-4d3b-abf5-1438c8557845",
+        "headline": "FLAMES VISIBLE near Ventura Coast! Urgent.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/6_9",
+        "coordinates": [
+            34.2338059996495,
+            -119.25719675172003
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-19T23:35:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "2a64e98a-8a75-45fa-a5c7-19317e881354",
+        "headline": "FLAMES VISIBLE near Santa Barbara! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/7_0",
+        "coordinates": [
+            34.39730403267588,
+            -119.66894971409113
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-21T05:51:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c031188a-cc44-441c-afa5-33cb78eadb62",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/7_1",
+        "coordinates": [
+            36.99506287037012,
+            -122.05387341406261
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-21T08:50:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "edd2f60f-3ba1-4b55-a50b-f6c55af501be",
+        "headline": "Reported smoke near Santa Barbara.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/7_2",
+        "coordinates": [
+            34.37202428918501,
+            -119.72277656296606
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-21T06:16:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "8785e33f-9fcf-4c2a-929f-be4c03c999cf",
+        "headline": "FLAMES VISIBLE near Ventura Coast! Urgent.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/7_3",
+        "coordinates": [
+            34.30140461020142,
+            -119.18179458403169
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-21T15:46:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "90becc13-50e8-42ad-a28d-b6a8fb3c7193",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/7_4",
+        "coordinates": [
+            36.99617088220209,
+            -122.00425777672687
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-21T04:23:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "3db06d34-9557-4297-9711-62990d645e39",
+        "headline": "Reported smoke near Santa Cruz.",
+        "raw_text": "Fire activity spotted near Santa Cruz. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/7_5",
+        "coordinates": [
+            37.01808234418098,
+            -122.0137521697554
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-21T07:20:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "72eef0e2-2d71-4f72-b36d-3d101b87c863",
+        "headline": "FLAMES VISIBLE near Ventura Coast! Urgent.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/7_6",
+        "coordinates": [
+            34.27294669273331,
+            -119.20357025413865
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-21T15:06:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "18793cbc-6c87-47b9-88c8-029d415b195c",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/7_7",
+        "coordinates": [
+            34.238587579541964,
+            -119.18138126303026
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-20T23:27:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "8653fde4-4c56-495e-97c9-86029bbe46bc",
+        "headline": "Reported smoke near Ventura Coast.",
+        "raw_text": "Fire activity spotted near Ventura Coast. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/7_8",
+        "coordinates": [
+            34.2443882041954,
+            -119.21120237535712
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-21T05:53:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "30499ae9-cdc8-44c1-89ff-9095fa5bb494",
+        "headline": "FLAMES VISIBLE near Santa Barbara! Urgent.",
+        "raw_text": "Fire activity spotted near Santa Barbara. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/7_9",
+        "coordinates": [
+            34.38011570653223,
+            -119.71396171875311
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-21T07:51:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "355da5e5-3f79-4ade-b8c4-460e61dfdc6a",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/8_0",
+        "coordinates": [
+            37.723167061135754,
+            -119.61163801173642
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-22T11:56:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "06d500ab-295e-4656-b104-66be4277b9d6",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/8_1",
+        "coordinates": [
+            37.75019996050875,
+            -119.5801268554894
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T19:08:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "eb58cc80-2bef-4c97-b470-6521243ae443",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/8_2",
+        "coordinates": [
+            36.69827040508574,
+            -119.74970174136054
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T19:03:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "e0746034-7ef0-4848-aad0-eea1b50dbda9",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/8_3",
+        "coordinates": [
+            36.718092665656386,
+            -119.78325860123144
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-22T08:57:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c0b0d46c-01c9-4d99-9d3a-21ccd79720d3",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/8_4",
+        "coordinates": [
+            37.70139664181762,
+            -119.62031242168703
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T05:51:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "0970e91b-24f8-4882-b0bc-63c1bc2f99b8",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/8_5",
+        "coordinates": [
+            37.71584146957067,
+            -119.60742591589467
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T14:32:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "15728f94-4dd6-40d3-82b4-1f89b189df41",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/8_6",
+        "coordinates": [
+            37.72910701030719,
+            -119.58939115732619
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-22T08:12:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "f5ed1517-caa9-4e98-97ba-59d587057b9f",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/8_7",
+        "coordinates": [
+            37.77900696751397,
+            -119.62922279975177
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T10:05:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "b9b95811-f7b8-4a7b-afba-1c43245b6e3f",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/8_8",
+        "coordinates": [
+            36.7277945139494,
+            -119.8012875057462
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T13:35:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "4156d4bf-17b4-43f1-9e18-1691143104e7",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/8_9",
+        "coordinates": [
+            37.71582507479758,
+            -119.60511993733847
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-22T18:57:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "1356bca3-4c74-4201-8810-cab2c490e34b",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/8_10",
+        "coordinates": [
+            37.75324297252954,
+            -119.63129168759103
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-21T23:26:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6d31cb11-a43b-4576-bfb3-06db36979e98",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/8_11",
+        "coordinates": [
+            36.758336791646464,
+            -119.78189980855674
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-21T22:40:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "5a34b010-ef79-4c1b-945f-b7e0c6310f4b",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/8_12",
+        "coordinates": [
+            36.75990185812692,
+            -119.8042637686938
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-22T02:15:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "d15d8be5-9862-4869-a1a6-b149b11d30cc",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/8_13",
+        "coordinates": [
+            36.730023906784496,
+            -119.83402988380531
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T00:51:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "de7bfaa9-bb69-4935-bddd-8e1b689bc72e",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/8_14",
+        "coordinates": [
+            36.78003872624944,
+            -119.79271570840831
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T02:06:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "bcb331cd-0110-4cc4-aad2-a923c43abd18",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/9_0",
+        "coordinates": [
+            36.71829077073715,
+            -119.79198179889602
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-22T20:40:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ef52c730-72e4-42fb-9a2a-53d3ac468d1a",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/9_1",
+        "coordinates": [
+            36.7306788632962,
+            -119.79632188204235
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-23T16:18:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "1feb7b66-4d3a-41cf-91a7-58bf12cb1514",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/9_2",
+        "coordinates": [
+            37.7624301225419,
+            -119.58986050006362
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-23T13:22:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "9e90a4cd-1667-466a-8838-e39baf13e6bb",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/9_3",
+        "coordinates": [
+            37.78859116932048,
+            -119.60235121227132
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-23T07:29:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "cbfc1496-1724-4d4b-973f-0ca1357d79a9",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/9_4",
+        "coordinates": [
+            36.75615422967908,
+            -119.79320678424801
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T21:45:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "9951b1c3-5149-4979-9a5a-e3637919e46e",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/9_5",
+        "coordinates": [
+            36.77979972812868,
+            -119.8191175422384
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-23T00:27:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6a0ced14-5e75-486b-96c2-088f785d9978",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/9_6",
+        "coordinates": [
+            37.73945355648109,
+            -119.54397332575358
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-23T00:37:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "8ed21717-b07c-4857-b451-f3656fe3af4e",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/9_7",
+        "coordinates": [
+            36.72312164776892,
+            -119.76160095185494
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T19:58:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "bacd5638-6054-423c-934d-c7d6d82ffc23",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/9_8",
+        "coordinates": [
+            37.70418396427777,
+            -119.63033863223026
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-23T02:25:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "a682c39d-f9d0-44f5-986b-d2808cb30954",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/9_9",
+        "coordinates": [
+            36.74908053111228,
+            -119.77594939806112
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-23T14:30:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "7d83a089-1321-4b8a-ab35-d4d0aec61b0e",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/9_10",
+        "coordinates": [
+            36.718192276709196,
+            -119.75956981439943
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T22:46:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "095ea924-25c9-46cf-a533-347c381f1311",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/9_11",
+        "coordinates": [
+            37.73407356031883,
+            -119.55349034555996
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-23T01:49:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6d7390fc-8e24-45a6-85d0-ace50eebcdd7",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/9_12",
+        "coordinates": [
+            37.70852905831641,
+            -119.64333446587113
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-22T19:50:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "e9acb9cc-f3ff-4b87-b941-173151b50faa",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/9_13",
+        "coordinates": [
+            36.728273637528396,
+            -119.78023169686782
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T22:18:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "447762a8-8ad1-4d25-b1c8-0cd16ba1c0ed",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/9_14",
+        "coordinates": [
+            36.78448539682596,
+            -119.80430788718255
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-22T21:26:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6741622e-3dae-4b32-8b54-7f3f9f7fe35b",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/10_0",
+        "coordinates": [
+            37.7739400324019,
+            -119.5909725265385
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-24T11:24:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "060bb772-dea2-4bf3-aaa0-493a3d355971",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/10_1",
+        "coordinates": [
+            36.69633673279244,
+            -119.81042323798582
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T00:56:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "10384819-a7e4-4ddb-8242-75e2d9297661",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/10_2",
+        "coordinates": [
+            36.78608758765741,
+            -119.80827081784169
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T09:19:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "65aa08ce-16fd-4f3a-822a-911bcaf5573f",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/10_3",
+        "coordinates": [
+            36.75930294779388,
+            -119.77558152522957
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-24T05:17:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "afb110b9-7b1c-45b3-866f-7ab22a035fa4",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/10_4",
+        "coordinates": [
+            36.747357147692014,
+            -119.74448967365358
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T00:14:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "187abada-6fa6-4d4d-805c-6719f38ff27b",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/10_5",
+        "coordinates": [
+            36.714588769780356,
+            -119.78395368913887
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T11:21:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "b64b266b-45bd-49cf-85a3-9a5776fb3fe0",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/10_6",
+        "coordinates": [
+            37.73521198220399,
+            -119.60650314050783
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-23T23:55:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "2506b312-46ce-4c79-8f58-3bd61598f0f7",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/10_7",
+        "coordinates": [
+            37.70571602442197,
+            -119.60524962634568
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T06:46:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "72882bfe-9a09-414d-a142-b552b62ad521",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/10_8",
+        "coordinates": [
+            36.714454298092946,
+            -119.75132335750287
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T12:56:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "f82f052e-b9b3-422b-bb42-8b2028c3194a",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/10_9",
+        "coordinates": [
+            36.73230615931201,
+            -119.77497142174369
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-24T17:21:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "e29caf3c-21d9-4c27-b6e9-374756182e78",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/10_10",
+        "coordinates": [
+            37.75246306820866,
+            -119.61803737895075
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-23T21:39:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ba579ae8-e369-415a-ac6f-6dc6f2a9c4f2",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/10_11",
+        "coordinates": [
+            36.723228097247016,
+            -119.79029867796959
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T08:58:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "34510433-ef93-46e6-b8a4-a9511c625dec",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/10_12",
+        "coordinates": [
+            36.70112956756865,
+            -119.76428368680456
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-24T15:17:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "827744e4-560c-4a4c-83a1-fc411f68669a",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/10_13",
+        "coordinates": [
+            37.790331578038604,
+            -119.61351235045532
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T17:01:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c95a8d82-4554-41ba-b093-db9ec278afa8",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/10_14",
+        "coordinates": [
+            37.74562468126906,
+            -119.6269400728814
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-23T23:37:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6fb68b53-b8e0-4f4f-997b-444425d84bdc",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/11_0",
+        "coordinates": [
+            36.70690832111676,
+            -119.76587007963366
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-25T04:33:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "b4c8ba42-3fd7-4c3a-bd41-9fde4cf825d2",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/11_1",
+        "coordinates": [
+            36.70053406514362,
+            -119.82637180034466
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-25T09:01:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "407e5788-668b-4d07-b49e-62f890b5bf9a",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/11_2",
+        "coordinates": [
+            37.79382730632294,
+            -119.63053663326555
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T22:08:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "5ed8e54a-7630-489e-8fee-a7466f7398b4",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/11_3",
+        "coordinates": [
+            37.711732838341185,
+            -119.58640202861481
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-24T20:07:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "efe76c5d-2a69-474f-a97b-bfecab3c4bfe",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/11_4",
+        "coordinates": [
+            37.7942205933206,
+            -119.62921293807946
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-25T16:57:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "763bac41-d987-4a29-8099-838b7f395557",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/11_5",
+        "coordinates": [
+            36.75285920540902,
+            -119.78037348845108
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T19:44:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "10fdf65d-8697-48ef-8d38-31b593c74df2",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/11_6",
+        "coordinates": [
+            37.73005244269484,
+            -119.60192974443252
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-25T04:07:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "1298f5d9-fbf5-4d78-abd6-58a7dd0c9b09",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/11_7",
+        "coordinates": [
+            37.77604091819369,
+            -119.54843561451288
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-25T02:53:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c437ad19-8861-4c05-83d9-3d9c5f63a5a8",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/11_8",
+        "coordinates": [
+            36.762807423923384,
+            -119.8206225620309
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-25T09:52:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c3fcee67-9a93-411b-995d-82337d7f9c16",
+        "headline": "FLAMES VISIBLE near Yosemite Valley! Urgent.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/11_9",
+        "coordinates": [
+            37.757842023189305,
+            -119.63832959064283
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-24T22:56:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "22fa2793-f3e0-4e9a-a805-46ac520acca8",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/11_10",
+        "coordinates": [
+            37.713752586677785,
+            -119.55633763455464
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-25T13:06:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ae7550ca-cbf9-4924-8052-a4fea753c092",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/11_11",
+        "coordinates": [
+            37.7593577003112,
+            -119.57767122416116
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T22:28:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "b3d63fdf-49ac-46f9-b569-30dde6ea7fff",
+        "headline": "FLAMES VISIBLE near Fresno City! Urgent.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/11_12",
+        "coordinates": [
+            36.735441298435816,
+            -119.75898906559904
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-25T07:21:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "71a79b0a-8e6d-4368-9d8f-c0965ec08886",
+        "headline": "Reported smoke near Yosemite Valley.",
+        "raw_text": "Fire activity spotted near Yosemite Valley. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/11_13",
+        "coordinates": [
+            37.708897403227496,
+            -119.55881657877052
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T23:48:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "3519d5a3-9061-41ca-8b27-410bbae6fc21",
+        "headline": "Reported smoke near Fresno City.",
+        "raw_text": "Fire activity spotted near Fresno City. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/11_14",
+        "coordinates": [
+            36.69193818722445,
+            -119.80331965948773
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-24T20:57:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "11ec78f0-be93-4662-a7fc-449a8d4f9b83",
+        "headline": "FLAMES VISIBLE near Berkeley! Urgent.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/12_0",
+        "coordinates": [
+            37.86000275240848,
+            -122.31939831716278
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-26T16:51:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6bf298f3-67cf-4471-952b-33d4838a0d02",
+        "headline": "Reported smoke near Lake Tahoe.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/12_1",
+        "coordinates": [
+            39.124743737108105,
+            -120.00173172279787
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-25T21:04:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "af57136b-4528-450c-b596-18d61e346e59",
+        "headline": "Reported smoke near Lake Tahoe.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/12_2",
+        "coordinates": [
+            39.08831938639508,
+            -120.061961468915
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T16:06:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "f3a53abd-3712-4932-bc3a-c6895ef373fe",
+        "headline": "FLAMES VISIBLE near Berkeley! Urgent.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/12_3",
+        "coordinates": [
+            37.82918871651813,
+            -122.28724156994059
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-26T04:05:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "49ac3c3b-8474-4a17-83dc-684d13bfe561",
+        "headline": "Reported smoke near Lake Tahoe.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/12_4",
+        "coordinates": [
+            39.09925666455784,
+            -120.07157989576652
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T02:26:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "edf58e5f-2063-4faf-9b98-1510fe04037d",
+        "headline": "Reported smoke near Lake Tahoe.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/12_5",
+        "coordinates": [
+            39.12011780462168,
+            -120.0026279683589
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T17:48:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "1455b99a-960c-4af6-8560-da9e59b11e2f",
+        "headline": "FLAMES VISIBLE near Berkeley! Urgent.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/12_6",
+        "coordinates": [
+            37.84208670899891,
+            -122.27961646955447
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-26T18:14:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "79aca34a-d9d7-4d97-8fbe-99da37a5694a",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/12_7",
+        "coordinates": [
+            37.90880901685864,
+            -122.25710167394715
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T01:14:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "2d4d3e98-ebcb-470d-b5ad-d51bda4dc35e",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/12_8",
+        "coordinates": [
+            37.80876549745089,
+            -122.2589246819599
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T18:57:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "aaf15a0a-40b4-46b8-bef5-8b6561c2b5b7",
+        "headline": "FLAMES VISIBLE near Lake Tahoe! Urgent.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/12_9",
+        "coordinates": [
+            39.057443517576445,
+            -120.05303545990607
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-26T08:40:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "02fdec78-74f5-4759-9779-a800f765b0a6",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/12_10",
+        "coordinates": [
+            37.76802233817697,
+            -122.2229764597095
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T14:09:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "8a5b68e3-0321-469e-8bb5-51f58512f5c8",
+        "headline": "Reported smoke near Lake Tahoe.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/12_11",
+        "coordinates": [
+            39.10820879212889,
+            -120.02198865613839
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T01:52:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "a05fafdb-02c6-453c-87ce-4764be2175e0",
+        "headline": "FLAMES VISIBLE near Oakland Hills! Urgent.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/13_0",
+        "coordinates": [
+            37.83736666717717,
+            -122.31354691616701
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-27T15:35:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "34472b92-b12e-4227-b979-0dee355a5043",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/13_1",
+        "coordinates": [
+            37.83413490637254,
+            -122.24954280612656
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T13:54:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "32ef7073-59d5-47de-85ff-faadb6ee0218",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/13_2",
+        "coordinates": [
+            37.907443804221266,
+            -122.29880974253678
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T05:07:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "6409be37-a797-45bc-a349-19118e97cf8c",
+        "headline": "FLAMES VISIBLE near Oakland Hills! Urgent.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/13_3",
+        "coordinates": [
+            37.82054528981869,
+            -122.30004907928624
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-27T06:16:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "53e6dcd7-daf4-4ab0-9f54-78b211ea79f7",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/13_4",
+        "coordinates": [
+            37.83666635922038,
+            -122.22847588126011
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T07:10:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "f8b0d05b-d03a-45e9-87e2-246278b410fd",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/13_5",
+        "coordinates": [
+            37.9041570059344,
+            -122.2695976804704
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T20:22:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "59970f47-b1c7-4752-9e53-2144f9605896",
+        "headline": "FLAMES VISIBLE near Lake Tahoe! Urgent.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/13_6",
+        "coordinates": [
+            39.07103174655393,
+            -120.064629064235
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-27T15:26:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "be73fa60-f509-469f-8e92-880ec4150de9",
+        "headline": "Reported smoke near Lake Tahoe.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/13_7",
+        "coordinates": [
+            39.08467141213383,
+            -119.99495741322612
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T02:46:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "66b1e163-931e-462d-893d-c85349d0d256",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/13_8",
+        "coordinates": [
+            37.758825555200765,
+            -122.23310428197392
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T18:09:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "893782ac-10f5-4f8b-ab95-438825416d5b",
+        "headline": "FLAMES VISIBLE near Oakland Hills! Urgent.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/13_9",
+        "coordinates": [
+            37.85197305682442,
+            -122.24264903548703
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-27T18:12:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "d41663d2-9efe-484e-8251-8f4ae9b7f272",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/13_10",
+        "coordinates": [
+            37.87726482464081,
+            -122.27844750642896
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-26T21:10:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c8abe986-6601-4c87-9f59-bc2075ec816d",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/13_11",
+        "coordinates": [
+            37.899527154674544,
+            -122.3054954285931
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T11:19:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "f749ca73-bf99-4c3d-9fa3-2a5442f7bfeb",
+        "headline": "FLAMES VISIBLE near Lake Tahoe! Urgent.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire High intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/14_0",
+        "coordinates": [
+            39.14112195229166,
+            -120.00795202770581
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-27T22:24:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "7eeb09a1-b377-4799-99f5-cffe603ef300",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/14_1",
+        "coordinates": [
+            37.797555902008156,
+            -122.24427793977499
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-28T03:27:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "356408b7-9ff0-48df-b84d-63273f342ff4",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/14_2",
+        "coordinates": [
+            37.78531018479451,
+            -122.31217933514303
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-28T01:46:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "fcb99e8b-7ed7-46ca-bfa3-8a8465c13147",
+        "headline": "FLAMES VISIBLE near Lake Tahoe! Urgent.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire High intensity.",
+        "source_name": "Facebook",
+        "source_link": "https://example.com/facebook/14_3",
+        "coordinates": [
+            39.055548052284514,
+            -120.07903882247416
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-28T11:25:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "ec8e5b5d-2385-4efa-ae46-aad25d971896",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/14_4",
+        "coordinates": [
+            37.82596301625946,
+            -122.25863895170517
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T22:55:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "f318e4b5-8fbb-44b3-b334-0e9dee0dd057",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/14_5",
+        "coordinates": [
+            37.885101102167546,
+            -122.3065858658186
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T19:30:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "35770e41-e216-43fb-9079-eebe8faf4365",
+        "headline": "FLAMES VISIBLE near Lake Tahoe! Urgent.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire High intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/14_6",
+        "coordinates": [
+            39.122228225662084,
+            -120.00042033962791
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-28T11:10:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "7f9d50ae-6069-4227-90a6-e9513925a7d3",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/14_7",
+        "coordinates": [
+            37.83967194157778,
+            -122.24628622894953
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-28T18:20:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "a1ef3833-5a4c-4d5e-9140-0774171aef60",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/14_8",
+        "coordinates": [
+            37.75718199545186,
+            -122.31267857344511
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-28T12:05:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "86d5e4d4-6bfa-4e8b-b298-42d752cdd107",
+        "headline": "FLAMES VISIBLE near Lake Tahoe! Urgent.",
+        "raw_text": "Fire activity spotted near Lake Tahoe. #wildfire High intensity.",
+        "source_name": "Reddit",
+        "source_link": "https://example.com/reddit/14_9",
+        "coordinates": [
+            39.115473740402116,
+            -120.03917061219435
+        ],
+        "evacuation_status": "Warning",
+        "priority": "High",
+        "timestamp": "2025-12-27T23:55:40.970542",
+        "magnitude": 9.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "a8cba714-aa48-4e68-a219-fe21100e1730",
+        "headline": "Reported smoke near Oakland Hills.",
+        "raw_text": "Fire activity spotted near Oakland Hills. #wildfire Medium intensity.",
+        "source_name": "Telegram",
+        "source_link": "https://example.com/telegram/14_10",
+        "coordinates": [
+            37.76190735933572,
+            -122.27975230324151
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-28T16:19:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "724460ad-42a3-450c-9448-ea58aefca109",
+        "headline": "Reported smoke near Berkeley.",
+        "raw_text": "Fire activity spotted near Berkeley. #wildfire Medium intensity.",
+        "source_name": "Twitter",
+        "source_link": "https://example.com/twitter/14_11",
+        "coordinates": [
+            37.868390686411594,
+            -122.2942468409697
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Medium",
+        "timestamp": "2025-12-27T22:43:40.970542",
+        "magnitude": 6.0,
+        "certainty_index": "Likely Legitimate (Simulated Progression)"
+    },
+    {
+        "id": "c9420296-893d-4cd0-b715-da34b73f2826",
+        "headline": "Yo this new mixtape is FIRE bro!",
+        "source_name": "Twitter",
+        "source_link": "https://twitter.com/slang",
+        "coordinates": [
+            34.0522,
+            -118.2437
+        ],
+        "evacuation_status": "Unknown",
+        "priority": "Low",
+        "timestamp": "2025-12-27T19:14:40.970542",
+        "magnitude": 1.0,
+        "certainty_index": "Flagged as Slang: 'this new mixtape is fire'",
+        "raw_text": "Yo this new mixtape is FIRE bro! Check it out at the link!"
+    }
+]

@@ -1,0 +1,535 @@
+:root {
+    /* Monday.com Color Palette */
+    --monday-blue: #0073ea;
+    --monday-purple: #5e11ff;
+    /* Monday Iris? Using simplified blue/purple */
+    --monday-dark: #323338;
+    --monday-bg: #f5f7f9;
+    --monday-grey: #c3c6d4;
+
+    /* Theme Mapping */
+    --bg-dark: var(--monday-bg);
+    --bg-surface: #ffffff;
+    --bg-surface-hover: #ffffff;
+    /* No drastic shift, just shadow */
+
+    --accent-primary: var(--monday-blue);
+    --accent-glow: rgba(0, 115, 234, 0.3);
+    /* Blue glow */
+
+    --text-primary: var(--monday-dark);
+    --text-secondary: #676879;
+    --text-tertiary: #9699a6;
+
+    --border-subtle: #d0d4e4;
+    --border-active: var(--monday-blue);
+
+    --font-stack: 'Figtree', 'Roboto', sans-serif;
+    /* Clean, modern sans */
+
+    --nav-height: 80px;
+    --max-width: 1400px;
+}
+
+/* Reset & Base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
+    font-family: var(--font-stack);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+}
+
+h2 {
+    background: linear-gradient(120deg, var(--monday-dark), var(--monday-blue));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 4rem;
+    line-height: 1.1;
+    margin-bottom: 24px;
+}
+
+h2 {
+    font-size: 2.25rem;
+    margin-bottom: 40px;
+}
+
+h3 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    margin-bottom: 12px;
+}
+
+p {
+    color: var(--text-secondary);
+    max-width: 65ch;
+    margin-bottom: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: opacity 0.2s ease;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+/* Layout Utilities */
+.container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+section {
+    padding: 120px 0;
+    border-bottom: 1px solid var(--border-subtle);
+    position: relative;
+    /* For potential pseudo-elements */
+}
+
+/* Add subtle fluff to alternating sections */
+section:nth-of-type(even) {
+    background: linear-gradient(to bottom right, rgba(255, 255, 255, 0.8), rgba(245, 247, 249, 1));
+}
+
+section:last-of-type {
+    border-bottom: none;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: var(--nav-height);
+    background: #ffffff;
+    border-bottom: 1px solid var(--border-subtle);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 1.2rem;
+    letter-spacing: -0.02em;
+    color: var(--monday-dark);
+}
+
+.nav-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    margin-left: 32px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.nav-links a:hover {
+    color: var(--accent-primary);
+}
+
+/* Hero Section */
+/* Removed big blur gradient circles for cleaner look */
+.hero {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    padding: 60px 0;
+    position: relative;
+    background: radial-gradient(circle at 10% 20%, rgba(94, 17, 255, 0.05) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(0, 115, 234, 0.08) 0%, transparent 40%),
+        #ffffff;
+    overflow: hidden;
+}
+
+/* Background fluff for hero */
+.hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -20%;
+    width: 800px;
+    height: 800px;
+    background: radial-gradient(circle, rgba(0, 115, 234, 0.03) 0%, transparent 70%);
+    border-radius: 50%;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.hero-content {
+    max-width: 800px;
+}
+
+.hero-content h1 {
+    font-size: 3.5rem;
+    line-height: 1.1;
+    margin-bottom: 24px;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, var(--monday-dark) 0%, #555 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.overline {
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    color: var(--accent-primary);
+    margin-bottom: 16px;
+    display: block;
+    font-weight: 600;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 16px 32px;
+    background: var(--accent-primary);
+    /* Monday Blue */
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 4px;
+    margin-top: 32px;
+    text-decoration: none;
+    transition: transform 0.2s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 4px 12px rgba(0, 115, 234, 0.2);
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    background-color: var(--monday-purple);
+    /* Slight shift on hover */
+    box-shadow: 0 8px 16px rgba(0, 115, 234, 0.3);
+    color: #ffffff;
+}
+
+/* Grid & Cards */
+.grid-2,
+.grid-3 {
+    display: grid;
+    gap: 24px;
+}
+
+.grid-2 {
+    grid-template-columns: 1fr;
+}
+
+.grid-3 {
+    grid-template-columns: 1fr;
+}
+
+@media (min-width: 768px) {
+    .grid-2 {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .grid-3 {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Centered Flex Grid (for Risk Section) */
+/* Centered Flex Grid (for Risk Section) */
+.flex-grid-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 24px;
+}
+
+/* Remove old flex child logic */
+.flex-grid-center>* {
+    flex: 1 1 300px;
+    min-width: 300px;
+    max-width: 400px;
+    /* Cap width so the bottom 2 don't stretch to 50% */
+}
+
+/* Cards */
+.card {
+    background: var(--bg-surface);
+    border: 1px solid var(--border-subtle);
+    border-top: 4px solid var(--monday-blue);
+    /* Added "fluff" accent */
+    padding: 32px;
+    border-radius: 8px;
+    box-shadow: 0 6px 20px -6px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+
+    /* Flex Column layout to stretch content and push footer */
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 420px;
+    /* Enforces uniform visual size across rows (tallest was ~411px) */
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 15px 35px -5px rgba(0, 115, 234, 0.15);
+    /* More colored shadow on hover */
+    border-color: var(--monday-purple);
+    /* Border shift on hover */
+    border-top-color: var(--monday-purple);
+}
+
+/* Push the last element (usually the 'Fix' or 'Status') to the bottom */
+.card>*:last-child {
+    margin-top: auto;
+}
+
+.card-icon {
+    font-size: 1.6rem;
+    color: var(--accent-primary);
+    margin-bottom: 20px;
+    display: block;
+}
+
+ul.clean-list {
+    list-style: none;
+}
+
+ul.clean-list li {
+    margin-bottom: 12px;
+    padding-left: 20px;
+    position: relative;
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    /* Darker text for readability */
+}
+
+ul.clean-list li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: var(--border-subtle);
+    transition: background-color 0.3s ease;
+}
+
+.card:hover ul.clean-list li::before {
+    background-color: var(--accent-primary);
+}
+
+/* Visuals (Video/Images) */
+.media-frame {
+    width: 100%;
+    aspect-ratio: 16/9;
+    background: #000;
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.placeholder-text {
+    color: var(--text-tertiary);
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+}
+
+/* Status Indicators */
+.status-row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+    border-top: 1px solid var(--border-subtle);
+    padding-top: 16px;
+}
+
+.status-item {
+    font-size: 0.85rem;
+}
+
+.status-item:last-child {
+    text-align: right;
+}
+
+.status-label {
+    display: block;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-tertiary);
+    margin-bottom: 4px;
+}
+
+.status-value {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.color-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+/* Footer */
+footer {
+    padding: 80px 0;
+    text-align: center;
+    color: var(--text-tertiary);
+    font-size: 0.9rem;
+}
+
+/* Flowchart Visualization */
+.flow-diagram {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 60px 0;
+    position: relative;
+    background: radial-gradient(circle, rgba(0, 115, 234, 0.03) 0%, transparent 60%);
+    /* Very subtle blue tint */
+}
+
+.flow-sources {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.flow-node {
+    background: #ffffff;
+    border: 1px solid var(--border-subtle);
+    padding: 24px;
+    border-radius: 12px;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+    z-index: 2;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    /* Soft shadow */
+}
+
+.flow-node:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-primary);
+    box-shadow: 0 10px 24px rgba(0, 115, 234, 0.15);
+    /* Blue glow shadow */
+}
+
+.flow-node i {
+    font-size: 2rem;
+    color: var(--accent-primary);
+    margin-bottom: 16px;
+    display: block;
+}
+
+.flow-node h4 {
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+    color: var(--text-primary);
+}
+
+.flow-node p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0;
+}
+
+/* Connector Lines */
+.flow-connector {
+    width: 2px;
+    height: 40px;
+    background: linear-gradient(to bottom, var(--border-subtle), var(--accent-primary));
+    position: relative;
+    opacity: 0.8;
+}
+
+/* Central Processor (Gemini) */
+.flow-processor {
+    width: 320px;
+    border: 2px solid var(--accent-primary);
+    /* Highlight border */
+    background: #ffffff;
+    /* Clean white */
+}
+
+.flow-processor::before {
+    /* Top connectors convergence */
+    content: '';
+    position: absolute;
+    top: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 40px;
+    border-top: 2px solid var(--border-subtle);
+    border-left: 2px solid transparent;
+    border-right: 2px solid transparent;
+    z-index: 1;
+}
+
+.flow-sources .flow-node::after {
+    content: '';
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    height: 40px;
+    background: var(--border-subtle);
+}
+
+@keyframes flowPulse {
+    0% {
+        background-position: 0% 0%;
+    }
+
+    100% {
+        background-position: 0% 100%;
+    }
+}
+
+.flow-arrow-down {
+    width: 2px;
+    height: 60px;
+    background: linear-gradient(to bottom, var(--border-subtle) 0%, var(--accent-primary) 50%, var(--border-subtle) 100%);
+    background-size: 100% 200%;
+    animation: flowPulse 2s infinite linear;
+}
